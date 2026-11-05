@@ -1,0 +1,16 @@
+{
+  "name": "prpoxy",
+  "version": "1.0.0",
+  "description": "PRPoxy — استخراج کانفیگ از کانال‌های تلگرام و ارسال به سروش",
+  "main": "worker.js",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "tail": "wrangler tail"
+  },
+  "devDependencies": {
+    "wrangler": "^3.90.0"
+  },
+  "license": "MIT"
+}
