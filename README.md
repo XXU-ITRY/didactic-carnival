@@ -6,7 +6,6 @@
 
 **استخراج خودکار کانفیگ‌های VPN و پروکسی از کانال‌های تلگرام — بدون ذخیره‌سازی، بدون واسطه، بدون قطعی**
 
-[![Deploy](https://github.com/YOUR_USERNAME/prpoxy/actions/workflows/deploy.yml/badge.svg)](https://github.com/XXU-ITRY/didactic-carnival/actions/workflows/deploy.yml)
 [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare-Workers-F38020?logo=cloudflare&logoColor=white)](https://workers.cloudflare.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Made in Iran](https://img.shields.io/badge/Made%20for-Iran-239f40?logo=linux&logoColor=white)](#)
